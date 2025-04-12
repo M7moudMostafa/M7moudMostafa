@@ -36,7 +36,7 @@ I'm a passionate **Frontend Developer** with over 2 years of experience, current
 
 - **LinkedIn**: [Mahmoud Mostafa on LinkedIn](https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)
 - **Email**: [mahmoud309mostafa@gmail.com](mailto:mahmoud309mostafa@gmail.com)
-- **Portfolio**: [Visit My Portfolio](https://newmahmoudportfolio.netlify.app/)
+- **Portfolio**: [Visit My Portfolio](https://mahmoud-portfolio-site.netlify.app)
 
 ---
 
