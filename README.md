@@ -1,59 +1,92 @@
-# ✨ Hi there, I'm Mahmoud Mostafa ! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=30&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Frontend+Developer;NodeJS+Developer;TV+Software+Developer" alt="Typing Animation" />
+</h1>
 
-🚀 **Frontend Developer | TV Software Developer | React.js Expert**
-
-I'm a passionate **Frontend Developer** with over 2 years of experience, currently working as a **TV Software Frontend Developer**. I specialize in building clean, user-friendly interfaces, and creating seamless experiences across **web and TV platforms**.
-
----
-
-## 🛠️ My Tech Stack
-
-- **Frontend**: React.js, Redux.js, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **UI Frameworks**: Ant Design, Material UI, Bootstrap
-- **Build Tools**: Vite, Webpack
-- **TV Software Development**: Custom TV Browser UI, Virtual Keyboard, Virtual Mouse Interface, Media Player Integration
-- **Version Control**: Git & GitHub
-
----
-
-## 🌐 What I’m Working On
-
-- Developing **innovative web experiences** for both mobile and desktop.
-- Enhancing **TV user interfaces**, focusing on performance and usability.
-- Building **custom tools** for seamless navigation on TV platforms.
+<p align="center">
+  <a href="mailto:mahmoud309mostafa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=000000" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-mostafa-35b879216/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://mahmoud-portfolio-site.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=00FF00&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/M7moudMostafa">
+    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 📚 What I’m Learning
+## <span style="color:#00FF00;">$ whoami</span>
 
-- Advanced **performance optimization** techniques for large-scale apps.
-- **Backend technologies** to become a more versatile developer.
-- Exploring **AI-powered interfaces** and **voice navigation** for smart devices.
+```bash
+Mahmoud Mostafa Mahmoud Attia
+Frontend Developer • TV Software Engineer • React.js Specialist
+```
 
----
+## <span style="color:#00FF00;">Tech Arsenal</span>
 
-## 📫 How to Reach Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,next,html,css,vite,webpack,git,github" />
+</p>
 
-- **LinkedIn**: [Mahmoud Mostafa on LinkedIn](https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)
-- **Email**: [mahmoud309mostafa@gmail.com](mailto:mahmoud309mostafa@gmail.com)
-- **Portfolio**: [Visit My Portfolio](https://mahmoud-portfolio-site.netlify.app)
-
----
-
-## 💡 Fun Fact
-
-When I'm not coding, you’ll find me exploring **tech trends**, working on side projects, or enjoying a good video game session 🎮.
+* **Frontend:** React.js (Expert), Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+* **State/UI:** Redux, Ant Design, Material UI, Bootstrap
+* **Build Tools:** Vite, Webpack
+* **TV Development:** OORO TV Browser UI, Virtual Keyboard, Virtual Mouse, Media Player Integration
 
 ---
 
-## 💬 Let’s Collaborate!
+## <span style="color:#00ff00;">Core Operations</span>
 
-I’m always open to **new opportunities**, especially where I can work on **cutting-edge technologies** and push my skills further.
+* 🚀 Developing **responsive, high-performance web platforms**
+* 📺 Engineering **Smart TV UIs** with **custom navigation tools**
+* ⌨️ Creating **virtual keyboards & mouse interfaces** for TV input
+* 📊 Designing **real-time data visualization & management tools**
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Code.+Optimize.+Deliver.;Always+Learning...;Always+Improving..." alt="Looping tagline" /> </p>
 
 ---
 
-## 📊 GitHub Stats
+## <span style="color:#00ff00;">Featured Projects</span>
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=M7moudMostafa&show_icons=true&theme=radical)
+### **OORO TV – Custom Browser UI**
+
+> Designed & built a TV-optimized browser UI from scratch: **remote-friendly**, **snappy focus management**, **large-screen readability**.
+
+### **Virtual Keyboard for TV**
+
+> Developed a **low-latency**, **intuitive** keyboard for TVs with **multi-language support groundwork**.
+
+### **Virtual Mouse Interface**
+
+> Implemented **smooth D-pad controlled pointer** with acceleration curves for precise TV navigation.
+
+### **Cross-Platform Data Platform**
+
+> Built **real-time dashboards** with **dynamic filters** and **seamless mobile/desktop experience**.
 
 ---
+
+## <span style="color:#00ff00;">GitHub Analytics</span>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=M7moudMostafa&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M7moudMostafa&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=AAAAAA" width="48%" height="105%" alt="GitHub Streak" /> 
+  </p>
+  <p align="center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M7moudMostafa&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="98%" alt="Contribution Graph" /> 
+</p>
+
+---
+
+## <span style="color:#00ff00;">Contact Protocol</span>
+
+* **LinkedIn:** [mahmoud-mostafa-35b879216](https://www.linkedin.com/in/mahmoud-mostafa-35b879216/)
+* **Portfolio:** [mahmoud-portfolio-site.netlify.app](https://mahmoud-portfolio-site.netlify.app)
+* **Email:** [mahmoud309mostafa@gmail.com](mailto:mahmoud309mostafa@gmail.com)
+
+---
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=System+Idle...;Awaiting+Next+Mission...;Open+to+Collaboration+and+Opportunities..." alt="Footer animation" /> </p>
