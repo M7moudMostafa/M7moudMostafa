@@ -35,7 +35,7 @@ Frontend Developer • TV Software Engineer • React.js Specialist
 * **Frontend:** React.js (Expert), Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
 * **State/UI:** Redux, Ant Design, Material UI, Bootstrap
 * **Build Tools:** Vite, Webpack
-* **TV Development:** OORO TV Browser UI, Virtual Keyboard, Virtual Mouse, Media Player Integration
+* **TV Development:** TV Browser UI, Virtual Keyboard, Virtual Mouse, Media Player Integration
 
 ---
 
