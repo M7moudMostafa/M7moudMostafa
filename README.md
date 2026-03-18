@@ -52,7 +52,7 @@ Frontend Developer • TV Software Engineer • React.js Specialist
 
 ## <span style="color:#00ff00;">Featured Projects</span>
 
-### **OORO TV – Custom Browser UI**
+### **TV – Custom Browser UI**
 
 > Designed & built a TV-optimized browser UI from scratch: **remote-friendly**, **snappy focus management**, **large-screen readability**.
 
